@@ -1,5 +1,5 @@
 # BlogSite
-## Basic blog site written in Django
+## Screenshot
 Home Page <br>
 ![Home](https://github.com/Aaryan8751/BlogSite/blob/main/screenshots/homepage.png)
 
